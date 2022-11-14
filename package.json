@@ -1,0 +1,25 @@
+{
+  "name": "rntwilio",
+  "version": "1.0.0",
+  "description": "React native module for Twilio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liyamahendra/rntwilio.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "twilio",
+    "voice",
+    "call"
+  ],
+  "author": {
+    "username": "liyamahendra",
+    "name": "Mahendra Liya"
+  },
+  "license": "MIT"
+}
